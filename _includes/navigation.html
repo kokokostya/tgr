@@ -3,7 +3,7 @@
     {% if page.url == item.link %}
       <span class="hl">{{ item.name }}</span>
     {% else %}
-      <a href="{{ item.link }}">{{ item.name }}</a>
+      <a href="{{ item.link | relative_url }}">{{ item.name }}</a>
     {% endif %}
   {% endfor %}
 </nav>
