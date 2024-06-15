@@ -1,3 +1,6 @@
+baseurl: "/tgr"
+url: "https://kokokostya.github.io/"
+
 collections:
   authors:
     output: true
