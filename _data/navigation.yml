@@ -1,6 +1,6 @@
 - name: Home
-  link: /
+  link: /tgr
 - name: About
-  link: /about.html
+  link: /tgr/about.html
 - name: Staff
-  link: /staff.html
+  link: /tgr/staff.html
